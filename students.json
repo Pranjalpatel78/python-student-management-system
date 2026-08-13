@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Aarav Sharma",
+        "course": "B.Sc. IT",
+        "email": "aarav@example.com"
+    },
+    {
+        "id": 2,
+        "name": "Riya Mehta",
+        "course": "BCA",
+        "email": "riya@example.com"
+    }
+]
